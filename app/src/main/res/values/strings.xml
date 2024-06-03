@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="fetched_quote">" %s "</string>
+    <string name="fetched_author">~ %s ~</string>
+</resources>
